@@ -1,19 +1,19 @@
 # Wertschöpfungsnetzwerk-Modellierung für die software-definierte resiliente Produktion der Zukunft (Well-defined)
 
-This repository hosts results from the research project [Value network modelling for the software-defined resilient production of the future](https://arena2036.de/de/welldefined) (Well-defined), funded by the German Federal Ministry of Education and Research.
+This repository hosts results from the research project [Value network modelling for the software-defined resilient production of the future](https://arena2036.de/en/welldefined) (Well-defined), funded by the German Federal Ministry of Research, Technology and Space.
 
-Dieses Repository enthält Ergebnisse aus dem Forschungsprojekt [Wertschöpfungsnetzwerk-Modellierung für die software-definierte resiliente Produktion der Zukunft]((https://arena2036.de/de/welldefined)) (Well-defined), das vom Bundesministerium für Bildung und Forschung gefördert wird.
+Dieses Repository enthält Ergebnisse aus dem Forschungsprojekt [Wertschöpfungsnetzwerk-Modellierung für die software-definierte resiliente Produktion der Zukunft]((https://arena2036.de/de/welldefined)) (Well-defined), das vom Bundesministerium für ­Forschung, Technologie und Raumfahrt (BMFTR) gefördert wird.
 
 <table>
   <tr>
     <th style="border: none;">
-        <a href="https://www.forschungscampus.bmbf.de/"><img src="https://arena2036.de/files/FinaleBilder/09_WeitereLogos/Foerderer_BMBF.png" style="width:330px;"></a>
+        <a href="https://www.forschungscampus.bmbf.de/"><img src="https://arena2036.de/files/FinaleBilder/09_WeitereLogos/bmftr_plain.png" style="width:330px;"></a>
     </th>
     <th style="border: none;">
         <a href="https://www.ptka.kit.edu/index.html"><img src="https://arena2036.de/files/FinaleBilder/09_WeitereLogos/Foerderer_PTKA.png" style="width:330px;"></a>
     </th>
     <th style="border: none;">
-        <a href="https://www.forschungscampus.bmbf.de/"><img src="https://arena2036.de/assets/images/e/Foerderer_Forschungscampus-bcadaa18.png" style="width:330px;"></a>
+        <a href="https://www.forschungscampus.bmbf.de/"><img src="https://arena2036.de/assets/images/9/Foerderer_Forschungscampus-4530f9f8.png" style="width:330px;"></a>
     </th>
   </tr>
 </table>
