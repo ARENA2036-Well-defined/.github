@@ -7,13 +7,13 @@ Dieses Repository enthält Ergebnisse aus dem Forschungsprojekt [Wertschöpfungs
 <table>
   <tr>
     <th style="border: none;">
-        <a href="https://www.forschungscampus.bmbf.de/"><img src="https://arena2036.de/files/FinaleBilder/09_WeitereLogos/bmftr_plain.png" style="width:330px;"></a>
+        <a href="https://www.forschungscampus.bmbf.de/"><img src="https://arena2036.de/assets/images/9/Foerderer_Forschungscampus-4530f9f8.png" style="width:330px;"></a>
+    </th>
+    <th style="border: none;">
+        <a href="https://www.forschungscampus.bmbf.de/"><img src="https://arena2036.de/assets/images/4/BMBFTR_Logo-4d7fc0da.png" style="width:330px;"></a>
     </th>
     <th style="border: none;">
         <a href="https://www.ptka.kit.edu/index.html"><img src="https://arena2036.de/files/FinaleBilder/09_WeitereLogos/Foerderer_PTKA.png" style="width:330px;"></a>
-    </th>
-    <th style="border: none;">
-        <a href="https://www.forschungscampus.bmbf.de/"><img src="https://arena2036.de/assets/images/9/Foerderer_Forschungscampus-4530f9f8.png" style="width:330px;"></a>
     </th>
   </tr>
 </table>
