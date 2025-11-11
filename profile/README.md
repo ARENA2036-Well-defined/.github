@@ -107,11 +107,11 @@ TP1 schafft mit einem Datenmodell und einer Spezifikationsvorschrift für Indust
 TP2 ist eng vernetzt mit TP1 und beschäftigt sich mit der Umsetzung eines adaptiven VCES zur flexiblen Einbindung von Industrie-4.0-Services.
 Der Mensch kollaboriert mit Industrie-4.0-Services und wird so zur Orchestration des hochflexiblen Produktionsprozesses befähigt.
 TP3-5 sind die vertikalen Pfeiler und physischen Demonstratoren, welche sich in Teilwertschöpfungsketten der Automobilproduktion eingliedern.
-Sie beinhalten den Aufbau eines elektrischen Lenksystems (TP3), die Produktion eines adaptierbaren Karosseriebauteils in einer Karosse (TP4) und den sicheren Transport des Produkts mit einem fahrerlosen 
+Sie beinhalten den Aufbau einer Modellfabrik für die flexible Montage von Automotive-Komponenten (TP3), die Produktion eines adaptierbaren Karosseriebauteils in einer Karosse (TP4) und den sicheren Transport des Produkts mit einem fahrerlosen 
 Transportfahrzeug (FTF) und ein Shared-Safety-Demonstrator (TP5) zur Vorstellung von 
 geteilten Sicherheitsbereichen von Produktionsmodulen.
 
-![](https://github.com/user-attachments/assets/2508ebe7-4a8e-45f1-bf1b-ef6cbf0a64ff)
+![](https://github.com/user-attachments/assets/d1999237-ccfc-4e84-9644-885a3918c792)
 
 <!-- ## Veröffentlichungen 
 
